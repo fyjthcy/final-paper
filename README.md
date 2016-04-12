@@ -8,3 +8,7 @@
 
 20160403
 壁画进行了批处理，并进行了superpixel的分割，以此为基础进行后面的操作
+
+20160412
+毕设改做size regulared constrained clustering
+将data clustering with size constraints 和 size regulared cut for data clustering 进行融合，并参照USR方法提出我们自己的创新!
