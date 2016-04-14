@@ -16,3 +16,6 @@
 20160413
 indicator matrix 发现了新的理解，当mustlink的时候，indicator matrix 对应的两个点是1，其他为0
 当cannot-link的时候，indicator matrix 对应的两个点时 对应的两个点是-1，其他为0.
+
+20160414
+Nothing but to remember kobe!
